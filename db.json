@@ -1,10 +1,14 @@
 {
-	"F\u00f6rderart:": "Darlehen",
-	"F\u00f6rderbereich:": "Existenzgr\u00fcndung & -festigung, Unternehmensfinanzierung",
-	"F\u00f6rdergebiet:": "bundesweit",
-	"F\u00f6rderberechtigte:": "Existenzgr\u00fcnder/in, Unternehmen",
-	"F\u00f6rdergeber:": "Bundesministerium f\u00fcr Wirtschaft und Energie (BMWi)",
-	"Ansprechpunkt:": "KfW Bankengruppe\nPalmengartenstra\u00dfe 5\u20139\n60325 Frankfurt am Main\nTel: 0800 5399001\ninfo@kfw.de\nKFW",
-	"Weiterf\u00fchrende Links:": "Internetseite der KfW - ERP-Gr\u00fcnderkredit - Universell",
-	"title": "ERP-Gr\u00fcnderkredit \u2013 Universell"
+	"lokmen": [{
+			"F\u00f6rderart:": "Darlehen",
+			"F\u00f6rderbereich:": "Existenzgr\u00fcndung & -festigung, Unternehmensfinanzierung",
+			"F\u00f6rdergebiet:": "bundesweit",
+			"F\u00f6rderberechtigte:": "Existenzgr\u00fcnder/in, Unternehmen",
+			"F\u00f6rdergeber:": "Bundesministerium f\u00fcr Wirtschaft und Energie (BMWi)",
+			"Ansprechpunkt:": "KfW Bankengruppe\nPalmengartenstra\u00dfe 5\u20139\n60325 Frankfurt am Main\nTel: 0800 5399001\ninfo@kfw.de\nKFW",
+			"Weiterf\u00fchrende Links:": "Internetseite der KfW - ERP-Gr\u00fcnderkredit - Universell",
+			"title": "ERP-Gr\u00fcnderkredit \u2013 Universell"
+		}
+
+	]
 }
