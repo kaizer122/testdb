@@ -1,31 +1,31 @@
-[
-    {
-        "F\u00f6rderart:": "Darlehen",
-        "F\u00f6rderbereich:": "Existenzgr\u00fcndung & -festigung, Unternehmensfinanzierung",
-        "F\u00f6rdergebiet:": "bundesweit",
-        "F\u00f6rderberechtigte:": "Existenzgr\u00fcnder/in, Unternehmen",
-        "F\u00f6rdergeber:": "Bundesministerium f\u00fcr Wirtschaft und Energie (BMWi)",
-        "Ansprechpunkt:": "KfW Bankengruppe\nPalmengartenstra\u00dfe 5\u20139\n60325 Frankfurt am Main\nTel: 0800 5399001\ninfo@kfw.de\nKFW",
-        "Weiterf\u00fchrende Links:": "Internetseite der KfW - ERP-Gr\u00fcnderkredit - Universell",
-        "title": "ERP-Gr\u00fcnderkredit \u2013 Universell",    },
-    {
-        "F\u00f6rderart:": "Zuschuss",
-        "F\u00f6rderbereich:": "Energieeffizienz & Erneuerbare Energien, Umwelt- & Naturschutz",
-        "F\u00f6rdergebiet:": "bundesweit",
-        "F\u00f6rderberechtigte:": "Unternehmen",
-        "F\u00f6rdergeber:": "",
-        "Ansprechpunkt:": "Deutschen Emissionshandelsstelle (DEHSt)\nim Umweltbundesamt\nBismarckplatz 1\n14193 Berlin\nTel: 030 8903-5050\nFax: 030 8903-5010\nemissionshandel@dehst.de\nDeutsche Emissionshandelsstelle (DEHSt)",
-        "Weiterf\u00fchrende Links:": "",
-        "title": "Beihilfen f\u00fcr indirekte CO2-Kosten",
-      },
-	 {
-        "F\u00f6rderart:": "Zuschuss",
-        "F\u00f6rderbereich:": "Energieeffizienz & Erneuerbare Energien, Umwelt- & Naturschutz",
-        "F\u00f6rdergebiet:": "bundesweit",
-        "F\u00f6rderberechtigte:": "Unternehmen",
-        "F\u00f6rdergeber:": "",
-        "Ansprechpunkt:": "Deutschen Emissionshandelsstelle (DEHSt)\nim Umweltbundesamt\nBismarckplatz 1\n14193 Berlin\nTel: 030 8903-5050\nFax: 030 8903-5010\nemissionshandel@dehst.de\nDeutsche Emissionshandelsstelle (DEHSt)",
-        "Weiterf\u00fchrende Links:": "",
-        "title": "Beihilfen f\u00fcr indirekte CO2-Kosten"
-	 }
-	]
+[{
+		"F\u00f6rderart:": "Darlehen",
+		"F\u00f6rderbereich:": "Existenzgr\u00fcndung & -festigung, Unternehmensfinanzierung",
+		"F\u00f6rdergebiet:": "bundesweit",
+		"F\u00f6rderberechtigte:": "Existenzgr\u00fcnder/in, Unternehmen",
+		"F\u00f6rdergeber:": "Bundesministerium f\u00fcr Wirtschaft und Energie (BMWi)",
+		"Ansprechpunkt:": "KfW Bankengruppe\nPalmengartenstra\u00dfe 5\u20139\n60325 Frankfurt am Main\nTel: 0800 5399001\ninfo@kfw.de\nKFW",
+		"Weiterf\u00fchrende Links:": "Internetseite der KfW - ERP-Gr\u00fcnderkredit - Universell",
+		"title": "ERP-Gr\u00fcnderkredit \u2013 Universell"
+	},
+	{
+		"F\u00f6rderart:": "Zuschuss",
+		"F\u00f6rderbereich:": "Energieeffizienz & Erneuerbare Energien, Umwelt- & Naturschutz",
+		"F\u00f6rdergebiet:": "bundesweit",
+		"F\u00f6rderberechtigte:": "Unternehmen",
+		"F\u00f6rdergeber:": "",
+		"Ansprechpunkt:": "Deutschen Emissionshandelsstelle (DEHSt)\nim Umweltbundesamt\nBismarckplatz 1\n14193 Berlin\nTel: 030 8903-5050\nFax: 030 8903-5010\nemissionshandel@dehst.de\nDeutsche Emissionshandelsstelle (DEHSt)",
+		"Weiterf\u00fchrende Links:": "",
+		"title": "Beihilfen f\u00fcr indirekte CO2-Kosten"
+	},
+	{
+		"F\u00f6rderart:": "Zuschuss",
+		"F\u00f6rderbereich:": "Energieeffizienz & Erneuerbare Energien, Umwelt- & Naturschutz",
+		"F\u00f6rdergebiet:": "bundesweit",
+		"F\u00f6rderberechtigte:": "Unternehmen",
+		"F\u00f6rdergeber:": "",
+		"Ansprechpunkt:": "Deutschen Emissionshandelsstelle (DEHSt)\nim Umweltbundesamt\nBismarckplatz 1\n14193 Berlin\nTel: 030 8903-5050\nFax: 030 8903-5010\nemissionshandel@dehst.de\nDeutsche Emissionshandelsstelle (DEHSt)",
+		"Weiterf\u00fchrende Links:": "",
+		"title": "Beihilfen f\u00fcr indirekte CO2-Kosten"
+	}
+]
